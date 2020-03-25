@@ -23,45 +23,15 @@ You need to set the config file according to your system architecture.
 
 ### RUN
 ```
-root@ismailtasdelen:~# bash ./anti-ddos.sh
+bash ./anti-ddos.sh
 ```
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/Anti-DDOS.git
+git clone https://github.com/ismailtasdelen/Anti-DDOS.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
+~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
 ```
-
-### About DOS and DDOS :
-
-##### Denial of Service : https://www.owasp.org/index.php/Denial_of_Service
-
-##### Denial of Service Cheat Sheet : https://www.owasp.org/index.php/Denial_of_Service_Cheat_Sheet
-
-##### Application Denial of Service : https://www.owasp.org/index.php/Application_Denial_of_Service
-
-##### Testing for Denial of Service : https://www.owasp.org/index.php/Testing_for_Denial_of_Service
-
-##### DRAFT Denial of Service Cheat Sheet : https://www.owasp.org/index.php/DRAFT_Denial_of_Service_Cheat_Sheet
-
-##### Regular expression Denial of Service - ReDoS : https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS
-
-### Published Website :
-
-##### KitPloit - https://www.kitploit.com/2017/10/anti-ddos-anti-ddos-bash-script.html
-
-##### CISOfy - https://linuxsecurity.expert/tools/anti-ddos/
-
-### Contact :
-
-##### Mail : ismailtasdelen@protonmail.com
-
-##### Linkedin : https://www.linkedin.com/in/ismailtasdelen
-
-##### GitHub : https://github.com/ismailtasdelen
-
-##### Telegram : https://t.me/ismailtasdelen
